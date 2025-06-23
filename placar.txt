@@ -1,3 +1,2 @@
-Alice: 13 pontos | Bob: 10 pontos
-Carlos: 15 pontos | Diana: 11 pontos
-Eva: 12 pontos | Felipe: 14 pontos
+luiz: 6 pontos | sheyk: 20 pontos
+lzn: 9 pontos | luiz: 17 pontos
